@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace Sorting
+namespace EpamTasks
 {
     class Program
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace Sorting
+namespace EpamTasks
 {
     class Task2
     {
@@ -24,10 +24,8 @@ namespace Sorting
             bool temp = false;
             {
                 for (int i = 0; i < array.Length & !temp; i++)
-                {
-                    if (array[i] == checkNum)
-                        temp = true;
-                }
+                    if (array[i] == checkNum) temp = true;
+                
             }
             return temp;
         }

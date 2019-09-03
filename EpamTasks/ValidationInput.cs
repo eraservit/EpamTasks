@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace Sorting
+namespace EpamTasks
 {
     class ValidationInput
     {
@@ -10,9 +10,8 @@ namespace Sorting
         {
             if (!string.IsNullOrEmpty(suggestMessage)) Console.WriteLine(suggestMessage);
             string consoleInput = Console.ReadLine();
-            int number;
             bool success = false;
-            success = int.TryParse(consoleInput, out number);
+            success = int.TryParse(consoleInput, out int number);
             while (!success)
             {
                 Console.WriteLine(errorMessage);

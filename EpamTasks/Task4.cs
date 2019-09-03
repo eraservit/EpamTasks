@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Sorting
+namespace EpamTasks
 {
     class Task4
     {

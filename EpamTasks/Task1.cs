@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace Sorting
+namespace EpamTasks
 {
     class Task1
     {
@@ -12,8 +12,6 @@ namespace Sorting
             int[] arr = Function.GetArrayFromConsole();
             Function.SortArray(arr);
             Function.PrintArray(arr);
-        }
-
-        
+        }        
     }
 }

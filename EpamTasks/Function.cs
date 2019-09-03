@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-namespace Sorting
+namespace EpamTasks
 {
     class Function
     {

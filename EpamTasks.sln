@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.705
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{DC9367EE-105E-49AC-A44C-23E6EA41EE03}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpamTasks", "EpamTasks\EpamTasks.csproj", "{DC9367EE-105E-49AC-A44C-23E6EA41EE03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
