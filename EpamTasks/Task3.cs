@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Text.RegularExpressions;
 using System.IO;
 
-
 namespace EpamTasks
 {
     class Task3

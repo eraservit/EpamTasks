@@ -40,7 +40,6 @@ namespace EpamTasks
                     if (choise < 1 || choise > 5) Console.WriteLine("Good Bye...");
                     Console.ReadKey();
                     break;
-
             }
          
         }
